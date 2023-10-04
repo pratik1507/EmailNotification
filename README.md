@@ -22,7 +22,7 @@ If you are using this project for execution make sure that you change username a
 )
 from the application.properties under src/main/resources.
 
-Also change the sender mail, reciever mail, subject and message as requried from com.klu.controller under src/main/java
+Also change the sender mail, receiver mail, subject and message as requried from com.klu.controller under src/main/java
 
 Hope this infromation will help you to execute the code successfully.
 
