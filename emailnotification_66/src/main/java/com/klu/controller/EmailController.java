@@ -14,10 +14,10 @@ public class EmailController {
 	EmailManager em;
 	@GetMapping("/send")
 	public String send() {
-		String frommail="powarpratik175@gmail.com";
-		String tomail="2100032537cseh@gmail.com";
-		String subject="wishes message";
-		String text="hello pratik, happy birthday ";
+		String frommail="<-- sender mail --->";
+		String tomail="<-- receiver mail -->";
+		String subject="<-- subject -->";
+		String text="<-- message -->";
 		return em.sendMail(frommail, tomail, subject, text);
 	}
 }
