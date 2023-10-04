@@ -24,5 +24,5 @@ from the application.properties under src/main/resources.
 
 Also change the sender mail, reciever mail, subject and message as requried from com.klu.controller under src/main/java
 
-Hope this infromation will help you to execute the code .
+Hope this infromation will help you to execute the code successfully.
 
